@@ -1,0 +1,18 @@
+#AJG23085 谷口香央
+
+CXX=g++
+
+report-3-AJG23085: report-3-AJG23085_main.o report-3_poker.o report-3-AJG23085_pokergame.o
+	$(CXX) -o report-3-AJG23085.exe report-3-AJG23085_main.o report-3_poker.o report-3-AJG23085_pokergame.o
+
+report-3-AJG23085_main.o:
+	$(CXX) -c -o report-3-AJG23085_main.o report-3-AJG23085_main.cpp
+
+report-3_poker.o:
+	$(CXX) -c -o report-3_poker.o report-3_poker.cpp
+
+report-3-AJG23085_pokergame.o:
+	$(CXX) -c -o report-3-AJG23085_pokergame.o report-3-AJG23085_pokergame.cpp
+
+clean:
+	rm -f report-3-AJG23085.exe report-3-AJG23085_main.o report-3_poker.o eport-3-AJG23085_pokergame.o

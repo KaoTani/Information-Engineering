@@ -1,0 +1,6 @@
+#AJG23085 谷口香央
+
+CC=g++
+sample: sample.o ex2image.o
+sample.o: sample.cpp
+ex2image.o: ex2image.cpp

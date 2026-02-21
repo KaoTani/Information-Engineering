@@ -1,0 +1,144 @@
+学生の課題の最高点，最低点，平均点，各課題の合否を表示します.
+
+学生の人数: 20 名
+課題: 5 題
+
+＜課題の平均点，最高点，最低点＞
+
+課題 1
+平均点: 46.45点
+最高点: WWWWW 98点
+最低点: ZZZZZ 1点
+
+課題 2
+平均点: 58.30点
+最高点: BBBBB 88点
+最低点: JJJJJ 11点
+
+課題 3
+平均点: 58.80点
+最高点: MMMMM 97点
+最低点: ZZZZZ 9点
+
+課題 4
+平均点: 49.40点
+最高点: CCCCC 97点
+最低点: MMMMM 3点
+
+課題 5
+平均点: 49.85点
+最高点: OOOOO 97点
+最低点: QQQQQ 1点
+
+＜各課題合否＞
+
+＜課題 1＞
+1: CCCCC 81点 合格
+2: PPPPP 10点 不合格
+3: GGGGG 66点 合格
+4: ZZZZZ 1点 不合格
+5: RRRRR 6点 不合格
+6: MMMMM 93点 合格
+7: KKKKK 60点 合格
+8: BBBBB 34点 不合格
+9: CCCCC 21点 不合格
+10: FFFFF 35点 不合格
+11: OOOOO 44点 不合格
+12: CCCCC 45点 不合格
+13: QQQQQ 59点 不合格
+14: GGGGG 48点 不合格
+15: JJJJJ 55点 不合格
+16: WWWWW 98点 合格
+17: PPPPP 32点 不合格
+18: FFFFF 67点 合格
+19: MMMMM 68点 合格
+20: QQQQQ 6点 不合格
+
+＜課題 2＞
+1: CCCCC 48点 不合格
+2: PPPPP 86点 合格
+3: GGGGG 78点 合格
+4: ZZZZZ 45点 不合格
+5: RRRRR 16点 不合格
+6: MMMMM 84点 合格
+7: KKKKK 87点 合格
+8: BBBBB 88点 合格
+9: CCCCC 14点 不合格
+10: FFFFF 84点 合格
+11: OOOOO 65点 合格
+12: CCCCC 36点 不合格
+13: QQQQQ 87点 合格
+14: GGGGG 64点 合格
+15: JJJJJ 11点 不合格
+16: WWWWW 19点 不合格
+17: PPPPP 37点 不合格
+18: FFFFF 74点 合格
+19: MMMMM 83点 合格
+20: QQQQQ 60点 合格
+
+＜課題 3＞
+1: CCCCC 26点 不合格
+2: PPPPP 41点 不合格
+3: GGGGG 47点 不合格
+4: ZZZZZ 9点 不合格
+5: RRRRR 70点 合格
+6: MMMMM 97点 合格
+7: KKKKK 70点 合格
+8: BBBBB 24点 不合格
+9: CCCCC 28点 不合格
+10: FFFFF 54点 不合格
+11: OOOOO 50点 不合格
+12: CCCCC 94点 合格
+13: QQQQQ 76点 合格
+14: GGGGG 38点 不合格
+15: JJJJJ 90点 合格
+16: WWWWW 90点 合格
+17: PPPPP 93点 合格
+18: FFFFF 45点 不合格
+19: MMMMM 48点 不合格
+20: QQQQQ 86点 合格
+
+＜課題 4＞
+1: CCCCC 10点 不合格
+2: PPPPP 12点 不合格
+3: GGGGG 60点 合格
+4: ZZZZZ 82点 合格
+5: RRRRR 70点 合格
+6: MMMMM 3点 不合格
+7: KKKKK 16点 不合格
+8: BBBBB 84点 合格
+9: CCCCC 50点 不合格
+10: FFFFF 46点 不合格
+11: OOOOO 29点 不合格
+12: CCCCC 97点 合格
+13: QQQQQ 47点 不合格
+14: GGGGG 9点 不合格
+15: JJJJJ 46点 不合格
+16: WWWWW 17点 不合格
+17: PPPPP 46点 不合格
+18: FFFFF 95点 合格
+19: MMMMM 72点 合格
+20: QQQQQ 97点 合格
+
+＜課題 5＞
+1: CCCCC 7点 不合格
+2: PPPPP 61点 合格
+3: GGGGG 34点 不合格
+4: ZZZZZ 95点 合格
+5: RRRRR 91点 合格
+6: MMMMM 32点 不合格
+7: KKKKK 74点 合格
+8: BBBBB 45点 不合格
+9: CCCCC 5点 不合格
+10: FFFFF 36点 不合格
+11: OOOOO 97点 合格
+12: CCCCC 71点 合格
+13: QQQQQ 1点 不合格
+14: GGGGG 38点 不合格
+15: JJJJJ 81点 合格
+16: WWWWW 61点 合格
+17: PPPPP 71点 合格
+18: FFFFF 27点 不合格
+19: MMMMM 34点 不合格
+20: QQQQQ 36点 不合格
+

@@ -1,0 +1,4 @@
+CC=gcc
+kadai8-AJG23085-1-main: kadai8-AJG23085-1-main.o kadai8-AJG23085-1.o
+kadai8-AJG23085-1-main.o: kadai8-AJG23085-1-main.c
+kadai8-AJG23085-1.o: kadai8-AJG23085-1.c

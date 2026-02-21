@@ -1,0 +1,43 @@
+AJG23085 谷口香央
+
+1) gcc report-2-2-AJG23085.c
+    でコンパイルする。
+2) touch report-3-AJG23085-log.txt
+    のコマンドでテキストファイルを作る。
+3) ./a.out > report-3-AJG23085-log.txt
+    で100個の乱数を1行に1つずつ保存したテキストファイルを生成するコマンドを実行する。
+4) grep ^[1-9]$ report-3-AJG23085-log.txt | wc -l >> report-3-AJG23085.txt
+    で「1～9」の出現個数を書き込む。
+5) grep ^[1][0-9]$ report-3-AJG23085-log.txt | wc -l >> report-3-AJG23085.txt
+    で「10～19」の出現個数を書き込む。
+6) grep ^[2][0-9]$ report-3-AJG23085-log.txt | wc -l >> report-3-AJG23085.txt
+    で「20～29」の出現個数を書き込む。
+7) grep ^[3][0-9]$ report-3-AJG23085-log.txt | wc -l >> report-3-AJG23085.txt
+    で「30～39」の出現個数を書き込む。
+8) grep ^[4][0-9]$ report-3-AJG23085-log.txt | wc -l >> report-3-AJG23085.txt
+    で「40～49」の出現個数を書き込む。
+9) grep ^[5][0-9]$ report-3-AJG23085-log.txt | wc -l >> report-3-AJG23085.txt
+    で「50～59」の出現個数を書き込む。
+10) grep ^[6][0-9]$ report-3-AJG23085-log.txt | wc -l >> report-3-AJG23085.txt
+    で「60～69」の出現個数を書き込む。
+11) grep ^[7][0-9]$ report-3-AJG23085-log.txt | wc -l >> report-3-AJG23085.txt
+    で「70～79」の出現個数を書き込む。
+12) grep ^[8][0-9]$ report-3-AJG23085-log.txt | wc -l >> report-3-AJG23085.txt
+    で「80～89」の出現個数を書き込む。
+13) grep ^[9][0-9]$ report-3-AJG23085-log.txt | wc -l >> report-3-AJG23085.txt
+    で「90～99」の出現個数を書き込む。
+14) grep ^[1][0][0]$ report-3-AJG23085-log.txt | wc -l >> report-3-AJG23085.txt
+    で「100」の出現個数を書き込む。
+15) どの数字が何の度数を表しているのかわかるように書き込む。
+
+「1~9」 10
+「10~19」 9
+「20~29」 8
+「30~39」 9
+「40~49」 9
+「50~59」 7
+「60~69」 8
+「70~79」 15
+「80~89」 15
+「90~99」 8
+「100」 2
